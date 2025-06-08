@@ -10,7 +10,7 @@
 **10+ production projects** | JavaScript (ES6+) | React (Hooks, Context, Redux) | Node.js | Express | MongoDB
 
 ### ☁️ Cloud & DevOps
-AWS Certified Solutions Architect | **5+ cloud-deployed applications** | CI/CD Pipelines | Docker | Kubernetes
+Solutions Architect | **5+ cloud-deployed applications** | CI/CD Pipelines | Docker | Kubernetes
 
 ### 🤖 Machine Learning
 Specializing in financial ML models | TensorFlow | PyTorch | **87% accuracy** on stock prediction models
