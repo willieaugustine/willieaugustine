@@ -4,8 +4,6 @@
 [![Visitors](https://komarev.com/ghpvc/?username=willieaugustine&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/willieaugustine)
 [![Repos](https://badges.pufler.dev/repos/willieaugustine?color=blue&style=flat)](https://github.com/willieaugustine?tab=repositories)
 
-[![Header](https://github.com/willieaugustine/willieaugustine/blob/main/assets/banner.png?raw=true)](https://willieaugustine.com)
-
 ## 🔥 Core Expertise
 
 ### 🛠 Full-Stack Development
