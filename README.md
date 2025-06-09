@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 # 👋 Willie Augustine | Full-Stack Engineer & Technical Writer
 
 [![Visitors](https://komarev.com/ghpvc/?username=willieaugustine&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/willieaugustine)
