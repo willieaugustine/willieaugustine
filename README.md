@@ -41,11 +41,8 @@ Specializing in financial ML models | TensorFlow | PyTorch | **87% accuracy** on
 
 <div align="center">
   
-[![Willie's Stats](https://github-readme-stats.vercel.app/api?username=willieaugustine&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)](https://github.com/willieaugustine)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willieaugustine&layout=compact&theme=radical&hide=html,css&langs_count=6)](https://github.com/willieaugustine)
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=willieaugustine&theme=react-dark&hide_border=true)](https://github.com/willieaugustine)
 
 </div>
 
