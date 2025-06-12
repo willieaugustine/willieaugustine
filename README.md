@@ -48,8 +48,8 @@ Specializing in financial ML models | TensorFlow | PyTorch | **87% accuracy** on
 
 ## 🏆 Achievements
 
-- **Top 5% contributor** on Dev.to (2022)
-- **Hackathon Winner** - FinTech Innovation Challenge (2021)
+- **Top 5% contributor** on Dev.to 
+- **Hackathon Winner** - FinTech Innovation Challenge
 - **Published Researcher** - Conference on ML Applications
 
 ## 📚 Latest Articles
